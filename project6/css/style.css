@@ -1,0 +1,41 @@
+/* Starter Project Styles */
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: bc-alphapipe, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: .10px;
+    line-height: 2;
+    padding: 7%;
+    background-color: #141414;
+    color: white;
+}
+
+h1 {
+    color: red;
+    font-weight: 600;
+}
+
+h2 {
+    color: red;
+    font-weight: 400;
+}
+
+h3 {
+    color: red;
+    font-weight: 400;
+}
+
+h4 {
+    color: red;
+    font-weight: 300;
+}
+img {
+    max-width: 70%;
+
+}
+
+ 
