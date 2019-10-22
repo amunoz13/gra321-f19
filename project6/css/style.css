@@ -19,24 +19,28 @@ h1 {
     color: #F3AF9A;
     font-weight: 600;
     padding: 3%;
+    margin-left: 23rem;
 }
 
 h2 {
     color: #F3D09C;
     font-weight: 400;
     padding: 3%;
+    margin-left: 23rem;
 }
 
 h3 {
     color: #F3D09C;
     font-weight: 400;
     padding: 3%;
+    margin-left: 23rem;
 }
 
 h4 {
     color: #F3D09C;
     font-weight: 300;
     padding: 3%;
+    margin-left: 23rem;
 }
 img {
     max-width: 100%;
@@ -46,6 +50,10 @@ img {
 
 ul {
     margin-bottom: 2rem;
+    margin-left: 23rem;
+}
+
+p {
     margin-left: 23rem;
 }
 
