@@ -12,29 +12,32 @@ body {
     padding: 7%;
     background-color: #141414;
     color: white;
+    font-size; 36px;
+    margin: 4rem;
 }
 
 h1 {
-    color: red;
+    color: #F3AF9A;
     font-weight: 600;
 }
 
 h2 {
-    color: red;
+    color: #F3D09C;
     font-weight: 400;
 }
 
 h3 {
-    color: red;
+    color: #F3D09C;
     font-weight: 400;
 }
 
 h4 {
-    color: red;
+    color: #F3D09C;
     font-weight: 300;
 }
 img {
     max-width: 70%;
+    padding: 3%;
 
 }
 
