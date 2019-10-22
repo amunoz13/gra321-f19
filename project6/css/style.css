@@ -8,37 +8,45 @@ body {
     font-weight: 300;
     font-style: normal;
     letter-spacing: .10px;
-    line-height: 2;
-    padding: 7%;
+    line-height: 3;
+    padding: 10%;
     background-color: #141414;
     color: white;
     font-size; 46px;
-    margin: 4rem;
 }
 
 h1 {
     color: #F3AF9A;
     font-weight: 600;
+    padding: 3%;
 }
 
 h2 {
     color: #F3D09C;
     font-weight: 400;
+    padding: 3%;
 }
 
 h3 {
     color: #F3D09C;
     font-weight: 400;
+    padding: 3%;
 }
 
 h4 {
     color: #F3D09C;
     font-weight: 300;
+    padding: 3%;
 }
 img {
-    max-width: 70%;
+    max-width: 100%;
     padding: 3%;
 
+}
+
+ul {
+    margin-bottom: 2rem;
+    margin-left: 23rem;
 }
 
 
